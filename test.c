@@ -2,5 +2,5 @@
 
 void main()
 {
-    pinrtf("test");
+    printf("test");
 }
